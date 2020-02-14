@@ -22,8 +22,7 @@ title: Zhen-Qi'Log
 email: liuzhenqi77@gmail.com
 description: >-
   Academic blogging!
-baseurl: ""
-url: "https://liuzhenqi77.github.io/zq-log"
+baseurl: "/zq-log"
 github_username: liuzhenqi77
 author: Zhen-Qi Liu
 
